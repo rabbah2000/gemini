@@ -3,7 +3,7 @@ import google.generativeai as genai
 import time
 
 # Set your API key securely
-GOOGLE_API_KEY = 'AIzaSyBescZLJLel8inS_oK2b0R_4WTd6ojGsnM'
+GOOGLE_API_KEY = 'XXXXXXX'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize video capture from the webcam
